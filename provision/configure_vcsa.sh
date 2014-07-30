@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# See the original work from William Lam at http://www.virtuallyghetto.com/
+
 ## DO NOT EDIT BEYOND HERE ##
 
 echo "Accepting EULA ..."
